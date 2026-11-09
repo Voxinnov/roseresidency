@@ -1,0 +1,20 @@
+[18-Apr-2021 07:19:34 UTC] PHP Fatal error:  Call to undefined method Common_model::get_user_total() in /home/santhwa/public_html/santh_admin/application/controllers/admin/Dashboard.php on line 46
+[18-Apr-2021 09:35:52 UTC] PHP Fatal error:  Call to a member function update() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 56
+[18-Apr-2021 09:35:56 UTC] PHP Fatal error:  Call to a member function update() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 56
+[18-Apr-2021 09:40:23 UTC] PHP Fatal error:  Call to a member function get_user_total() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 47
+[18-Apr-2021 09:40:26 UTC] PHP Fatal error:  Call to a member function get_user_total() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 47
+[18-Apr-2021 13:34:16 UTC] PHP Fatal error:  Call to a member function get_contents() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 17
+[18-Apr-2021 14:17:12 UTC] PHP Fatal error:  Call to undefined function create_folder() in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 28
+[18-Apr-2021 14:18:02 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/santhwa/public_html/santh_admin/application/controllers/admin/About.php on line 32
+[18-Apr-2021 14:47:58 UTC] PHP Fatal error:  Call to undefined function get_image() in /home/santhwa/public_html/santh_admin/application/views/admin/about.php on line 67
+[18-Apr-2021 14:49:05 UTC] PHP Fatal error:  Call to undefined function get_image() in /home/santhwa/public_html/santh_admin/application/views/admin/about.php on line 67
+[18-Apr-2021 14:49:49 UTC] PHP Fatal error:  Call to undefined function get_image() in /home/santhwa/public_html/santh_admin/application/views/admin/about.php on line 67
+[18-Apr-2021 14:50:30 UTC] PHP Fatal error:  Call to undefined function get_image() in /home/santhwa/public_html/santh_admin/application/views/admin/about.php on line 67
+[29-May-2021 13:20:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/voxin/public_html/demo/imprintsacademydemo1/imprint_admn/application/controllers/admin/Speciality.php on line 139
+[21-Mar-2024 07:41:42 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:42:10 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:42:14 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:43:51 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:44:01 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:44:07 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Mar-2024 07:44:12 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
